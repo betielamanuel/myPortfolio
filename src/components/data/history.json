@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Mentor",
+    "organisation": "Code The Dream",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "In this role, I guide and support new students in software development, providing insights and expertise to help them overcome challenges and grow their coding skills."
+    ],
+    "imageSrc": "history/netflix.png"
+  },
+  {
+    "role": "Backend Developer Apprentice",
+    "organisation": "Code The Dream",
+    "startDate": "Mar, 2024",
+    "endDate": "May, 2024",
+    "experiences": [
+      "During my apprenticeship, I focused on back-end development tasks, contributing to the design and implementation of APIs and managing database interactions to support scalable web applications."
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Behavioral Health Therapist",
+    "organisation": "Cultivate Behavioral Health & Education",
+    "startDate": "Jun, 2024",
+    "endDate": "present",
+    "experiences": [
+      "As a therapist, I work with children with autism, helping them develop communication and social skills through innovative therapeutic practices."
+    ],
+    "imageSrc": "history/microsoft.png"
+  }
+]
