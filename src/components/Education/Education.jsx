@@ -1,4 +1,4 @@
-import { getImageUrl } from "../../utils";
+// import { getImageUrl } from "../../utils";
 import styles from "./Education.module.css";
 
 export const Education = () => {
@@ -73,11 +73,11 @@ export const Education = () => {
             </div>
           </li>
         </ul>
-        <img
+        {/* <img
           src={getImageUrl("about/aboutImage.png")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
-        />
+        /> */}
       </div>
     </section>
   );
