@@ -8,19 +8,11 @@
     "source": "https://github.com/betielamanuel/task-list"
   },
   {
-    "title": "Project B",
+    "title": "Toy Exchange App Backend",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Led the development of RESTful APIs, implemented JWT for secure authentication, designed MongoDB data schemas, and managed deployment and testing to ensure optimal application performance.",
+    "skills": ["Node.js", "Express.js", "MongoDB"],
+    "demo": "https://betielamanuel.github.io/Task-List/",
+    "source": "https://github.com/betielamanuel/toy-exchange-webapp-api"
   }
 ]
